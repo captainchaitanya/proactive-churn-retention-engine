@@ -1,5 +1,5 @@
 # 🚀 Proactive SME Cardholder Retention Engine
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]((https://proactive-churn-retention-engine-bsbuhzwnddg3w9mlpt3cps.streamlit.app/))
+**➡️ Live Demo:** [**Click here to access the Streamlit Dashboard**](https://proactive-churn-retention-engine-bsbuhzwnddg3w9mlpt3cps.streamlit.app/)
 
 ## 🎯 Project Overview
 
